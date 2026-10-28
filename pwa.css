@@ -11,3 +11,4 @@ html{-webkit-text-size-adjust:100%}body{min-height:100dvh}
 .install-help button{display:block;width:100%;min-height:48px;background:var(--brown);color:#fff8ec;font-size:13px;letter-spacing:1px}
 @media(max-height:720px){.cover-paper{padding-top:calc(20px + env(safe-area-inset-top,0px));padding-bottom:calc(16px + env(safe-area-inset-bottom,0px))}}
 @media(display-mode:standalone){.pwa-tools{min-height:22px}}
+img[src$="/ui-cover-83.jpg"]{transform:rotate(180deg)}
